@@ -16,7 +16,7 @@ status: "draft"
 **Phone:** (916) 897-9967 · **Web:** [emcoffeehouse.com](https://www.emcoffeehouse.com/)
 **Category:** Coffee & Tea café
 
-Em Coffee House in Elk Grove is a bright, plant-filled café that's a great
+Em Coffee House in Elk Grove is a bright, modern café that's a great
 stop for matcha lovers. The standout is their **matcha flight** (the
 "Em Experience" flight tasting set, $23 dine-in) — a smart, low-commitment
 way to taste four different styles of matcha side by side (four pours at
@@ -44,7 +44,8 @@ matcha in one sitting.
 
 ## Notes
 
-- Modern, airy space with lots of hanging greenery.
+- Bright, modern, airy space with lots of greenery — though the plants
+  are all faux, not live.
 - The four-glass wooden paddle presentation is a real highlight.
 - Solid pick for anyone wanting to branch out beyond a standard matcha
   latte, or to share and compare with a friend.

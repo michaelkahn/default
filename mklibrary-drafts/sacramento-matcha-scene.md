@@ -26,8 +26,9 @@ spots worth seeking out, updated as I visit them.
 **Phone:** (916) 897-9967 · **Web:** [emcoffeehouse.com](https://www.emcoffeehouse.com/)
 **Visited:** August 2026
 
-A bright, airy café draped in hanging greenery, Em Coffee House is a
-standout for matcha lovers thanks to its **matcha flight** — the "Em
+A bright, modern café decked out in greenery (all faux, but it works),
+Em Coffee House is a standout for matcha lovers thanks to its **matcha
+flight** — the "Em
 Experience" tasting set ($23 for four pours, $5.75 each). It's the best
 kind of introduction to how much range matcha actually has.
 
@@ -44,7 +45,8 @@ paddle board, each individually labeled:
 
 Every pour was good and distinct, and the flight is a genuinely fun way
 to taste the spectrum in one sitting — great to share and compare. The
-plant-filled, modern space makes it an easy place to linger.
+bright, modern space — greenery everywhere, all faux — makes it an easy
+place to linger.
 
 > **The move:** Order the flight and work left to right, saving the
 > coconut blast for last like dessert.
