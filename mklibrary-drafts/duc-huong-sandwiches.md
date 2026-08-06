@@ -7,16 +7,15 @@ website: "https://duchuongsandwiches.com/"
 hours: "Approx. 6am–8pm daily (confirm on visit)"
 category: "Sandwiches"
 cuisine: "Vietnamese"
-date_visited: "2026-08"
+date_visited: "2026-08-06"
 tags: ["sandwiches", "banh-mi", "vietnamese", "sacramento", "bakery", "deli"]
-status: "draft — awaiting your sandwich order"
+status: "draft"
 ---
 
 # Đức Hương Sandwiches
 
-> **DRAFT.** Shop details and observed case items are locked in from the
-> visit photos. Still need your actual sandwich order to finish the "what
-> to get" line.
+> **DRAFT.** Order and details locked in from the visit. Only optional
+> add is your personal taste verdict (see note at bottom).
 
 ## Đức Hương Sandwiches *(paste-ready entry — draft)*
 
@@ -34,10 +33,12 @@ like bánh bèo and bánh ram ít, plus colorful sweets. It's the kind of
 busy, no-frills neighborhood institution where the line moves fast and
 everything's turning over fresh.
 
-**[After the visit — fill in:]** which banh mi you ordered, how the bread
-was (crackle vs. soft), the balance of pâté / pickled daikon-and-carrot /
-cilantro / jalapeño, standout picks, price, and how it stacks up against
-other Sac banh mi.
+On this visit I grabbed two of the classics — the **#5 Xá Xíu (BBQ pork)**
+and the **#13 Ba Chỉ (pork belly)**, $6 each — both on that fresh-baked
+baguette and loaded with the usual banh mi lineup of pâté, pickled
+daikon-and-carrot, cucumber, cilantro, and jalapeño. At two full
+sandwiches for about $13 out the door, it's the kind of value that keeps
+a place like this packed.
 
 ---
 
@@ -49,6 +50,11 @@ other Sac banh mi.
 **Known for:** Banh mi and house-made giò chả (Vietnamese sausage);
 on-site bakery; busy, affordable neighborhood institution.
 
+**Ordered (Aug 6, 2026):**
+- **#5 Xá Xíu — BBQ Pork** banh mi — $6.00
+- **#13 Ba Chỉ — Pork Belly** banh mi — $6.00
+- *Subtotal $12.00 · total $12.93 with tax*
+
 **Seen in the case (with prices):**
 - **Pâté chaud** (savory meat puff pastry) — $2.00 each
 - **Giò lụa / Giò Huế** (Vietnamese pork sausage/charcuterie) — $8.50
@@ -58,10 +64,8 @@ on-site bakery; busy, affordable neighborhood institution.
 - Xôi (sticky rice) and assorted bánh / sweets
 
 <!--
-STILL NEED FROM YOU:
-- Exact banh mi / sandwich(es) ordered + price
-- Bread quality (crispy crust? fresh?)
-- Filling balance; standout combos
-- Anything from the deli case you tried
-- Vibe: dine-in vs. grab-and-go, line/wait, cash-only?
+OPTIONAL — add if you want to enrich:
+- Your taste verdict on the #5 and #13 (bread crackle, meat, balance)
+- Which of the two you'd get again
+- A cross-section photo of a sandwich
 -->
