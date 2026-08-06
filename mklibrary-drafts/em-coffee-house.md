@@ -1,22 +1,26 @@
 ---
-title: "M Coffee House"
+title: "Em Coffee House"
 city: "Elk Grove"
-address: "7440 Laguna Blvd, Suite 111, Elk Grove, CA"
+address: "7440 Laguna Blvd, Suite 111, Elk Grove, CA 95758"
+phone: "(916) 897-9967"
+website: "https://www.emcoffeehouse.com/"
 category: "Coffee & Tea"
 date_visited: "2026-08-06"
 tags: ["matcha", "cafe", "elk-grove", "coffee", "tea", "matcha-flight"]
 status: "draft"
 ---
 
-# M Coffee House
+# Em Coffee House
 
-**Where:** 7440 Laguna Blvd, Suite 111, Elk Grove, CA
+**Where:** 7440 Laguna Blvd, Suite 111, Elk Grove, CA 95758
+**Phone:** (916) 897-9967 · **Web:** [emcoffeehouse.com](https://www.emcoffeehouse.com/)
 **Category:** Coffee & Tea café
 
-M Coffee House in Elk Grove is a bright, plant-filled café that's a great
+Em Coffee House in Elk Grove is a bright, plant-filled café that's a great
 stop for matcha lovers. The standout is their **matcha flight** (the
 "Em Experience" flight tasting set, $23 dine-in) — a smart, low-commitment
-way to taste four different styles of matcha side by side.
+way to taste four different styles of matcha side by side (four pours at
+$5.75 each, $23 for the set).
 
 ## The Matcha Flight
 
