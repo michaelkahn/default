@@ -38,21 +38,28 @@ place you want to sit and take in for a while.
 You've got options: order at the counter in person, or use the **self-
 order kiosk / screen** if you'd rather browse and tap through yourself.
 
-## What to get
+## What I tried
 
-- **Egg coffee** (cà phê trứng) — the rich, custardy Hanoi specialty; a
-  must-try if you haven't had it.
+- **Mango matcha slushy** — a fruity, frozen twist on matcha.
+- **Soursop slushy** — soursop (mãng cầu) blended into a cool, refreshing
+  slush; a distinctly Vietnamese flavor.
+- **Ube coffee** — coffee with ube (purple yam) for a sweet, nutty spin.
+
+The slushies are a great call on a warm day, and the ube coffee is a fun
+way to try something beyond a standard order.
+
+## Also on the menu
+
+- **Egg coffee** (cà phê trứng) — the rich, custardy Hanoi specialty.
 - Traditional **phin-drip Vietnamese coffee** — the house's namesake pour.
 
 ## Notes
 
-- Great pick for both the coffee and the atmosphere — worth it for the
+- Great pick for both the drinks and the atmosphere — worth it for the
   vintage decor alone.
 
 <!--
 TODO before publishing:
-- Confirm exactly what you ordered and how it was (the note trailed off
-  at "egg coffee or…")
 - Add any standout food (bánh mì, etc.) if you tried it
 - Optional: prices, a favorite photo of the decor
 -->
