@@ -29,8 +29,9 @@ foundation you want under a good banh mi — a crackly, fresh-baked roll.
 Beyond sandwiches, the deli case is a whole spread of house-made
 Vietnamese classics: giò lụa and giò Huế (the "giò chả" the shop is named
 for), chả ốc, xôi (sticky rice), and trays of steamed rice-cake snacks
-like bánh bèo and bánh ram ít, plus colorful sweets. It's the kind of
-busy, no-frills neighborhood institution where the line moves fast and
+like bánh bèo and bánh ram ít, plus house-baked sweets like bánh dừa
+(coconut cake) packaged under their own label. It's the kind of busy,
+no-frills neighborhood institution where the line moves fast and
 everything's turning over fresh.
 
 On this visit I grabbed two of the classics — the **#5 Xá Xíu (BBQ pork)**
@@ -61,6 +62,8 @@ on-site bakery; busy, affordable neighborhood institution.
 - **Chả ốc** (snail/pork terrine)
 - **Bánh bèo** (steamed rice cakes) — 10 pcs / $9
 - **Bánh ram ít** (crispy-sticky rice dumplings) — 5 pcs / $9
+- **Bánh dừa** (coconut cake — flour, sugar, coconut, vanilla, pandan),
+  house-baked and labeled under the Đức Hương name
 - Xôi (sticky rice) and assorted bánh / sweets
 
 <!--
