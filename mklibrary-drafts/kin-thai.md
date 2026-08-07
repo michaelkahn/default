@@ -24,8 +24,10 @@ status: "draft"
 In the heart of Midtown, Kin Thai Street Eatery has become one of
 Sacramento's most celebrated Thai spots — the first and only Thai
 restaurant in the area recognized by the Michelin Guide. The menu leans
-into regional Thai street food across a moody, dimly lit dining room, and
-it's the kind of place worth ordering broadly and sharing.
+into regional Thai street food across a moody, dimly lit dining room —
+blue neon signage, trailing plants, industrial metal chairs, and
+street-facing windows give it a laid-back, atmospheric feel. It's the
+kind of place worth ordering broadly and sharing.
 
 We spread it across the table: **chicken curry puffs** — golden, flaky,
 rope-crimped half-moon pastries served with a tangy cucumber-and-red-onion
@@ -38,7 +40,8 @@ showstopper, **khao mok gai tod**,
 Kin's take on Thai-Muslim chicken biryani, with golden fried chicken piled
 over fragrant turmeric-yellow rice, crispy fried shallots, and a bright
 green dipping sauce and cucumber relish on the side. To drink, a classic
-**Thai iced tea** and a pint of **Singha** on draft. Dessert was **sago
+**Thai iced tea** — served in a tall glass mug, amber and layered with
+milk — and a pint of **Singha** on draft. Dessert was **sago
 pudding** — green pandan pearls in sweet coconut milk crowned with a scoop
 of ice cream, cool and just-sweet-enough to close things out.
 
