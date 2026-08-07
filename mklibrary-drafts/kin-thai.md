@@ -40,7 +40,10 @@ Kin's take on Thai-Muslim chicken biryani, with golden fried chicken piled
 over fragrant turmeric-yellow rice, crispy fried shallots, and a bright
 green dipping sauce and cucumber relish on the side. To drink, a classic
 **Thai iced tea** — served in a tall glass mug, amber and layered with
-milk — and a pint of **Singha** on draft. Dessert was **sago
+milk — and a pint of **Singha** on draft. The beer list leans into Thai
+options like Singha, which pair naturally with the food; the wine list, by
+contrast, is fairly basic and sticks to familiar California labels, so
+beer (or the Thai tea) is the move here. Dessert was **sago
 pudding** — green pandan pearls in sweet coconut milk crowned with a scoop
 of ice cream, cool and just-sweet-enough to close things out.
 
