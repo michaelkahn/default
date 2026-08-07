@@ -6,7 +6,8 @@ address: "1050 20th St, Suite 180, Sacramento, CA 95811"
 phone: "(916) 619-8144"
 website: "https://www.kinthaieatery.com/"
 hours: "Mon–Fri 11am–3pm & 4:30–9pm · Sat 11am–9pm · Sun 12–9pm (closed 2nd Tuesday monthly)"
-category: "Restaurants"
+category: "Thai Restaurants"
+target_article: "Best Thai Restaurants in Sacramento"
 cuisine: "Thai"
 date_visited: "2026-08-06"
 tags: ["thai", "midtown", "sacramento", "restaurant", "michelin"]
@@ -62,5 +63,4 @@ Sacramento area to be recognized.
 <!--
 OPTIONAL — add if you want to enrich:
 - Your taste verdict / standout dishes / spice notes
-- Confirm which article this goes in (Best Thai / restaurants roundup?)
 -->
