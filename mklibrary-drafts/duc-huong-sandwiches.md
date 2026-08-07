@@ -9,13 +9,12 @@ category: "Sandwiches"
 cuisine: "Vietnamese"
 date_visited: "2026-08-06"
 tags: ["sandwiches", "banh-mi", "vietnamese", "sacramento", "bakery", "deli"]
-status: "draft"
+status: "ready"
 ---
 
 # Đức Hương Sandwiches
 
-> **DRAFT.** Order and details locked in from the visit. Only optional
-> add is your personal taste verdict (see note at bottom).
+> Complete and paste-ready.
 
 ## Đức Hương Sandwiches *(paste-ready entry — draft)*
 
@@ -40,9 +39,11 @@ house-baked bread beautifully: a deeply golden, blistered, crackly crust
 over a light, airy crumb. The #5 came loaded with chunks of red-edged
 char-siu BBQ pork, while the #13 layered in tender slices of pork belly —
 each piled with the classic banh mi fixings of pickled carrot and daikon,
-cool cucumber, fresh cilantro, and jalapeño. At two full sandwiches for
-about $13 out the door, it's the kind of value that keeps a place like
-this packed.
+cool cucumber, fresh cilantro, and jalapeño. The pork belly is, true to its name, richly
+fatty, while the BBQ pork keeps its sandwich feeling light yet still
+filling. Portions are generous, too — about two-thirds of a sandwich is
+plenty for a hungry lunch. At two full sandwiches for roughly $13 out the
+door, it's the kind of value that keeps a place like this packed.
 
 ---
 
@@ -69,9 +70,3 @@ on-site bakery; busy, affordable neighborhood institution.
   house-baked and labeled under the Đức Hương name
 - Xôi (sticky rice) and assorted bánh / sweets
 
-<!--
-OPTIONAL — add if you want to enrich:
-- Your taste verdict on the #5 and #13 (bread crackle, meat, balance)
-- Which of the two you'd get again
-- A cross-section photo of a sandwich
--->
