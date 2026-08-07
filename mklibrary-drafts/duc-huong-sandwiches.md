@@ -35,11 +35,14 @@ no-frills neighborhood institution where the line moves fast and
 everything's turning over fresh.
 
 On this visit I grabbed two of the classics — the **#5 Xá Xíu (BBQ pork)**
-and the **#13 Ba Chỉ (pork belly)**, $6 each — both on that fresh-baked
-baguette and loaded with the usual banh mi lineup of pâté, pickled
-daikon-and-carrot, cucumber, cilantro, and jalapeño. At two full
-sandwiches for about $13 out the door, it's the kind of value that keeps
-a place like this packed.
+and the **#13 Ba Chỉ (pork belly)**, $6 each. Both showed off the
+house-baked bread beautifully: a deeply golden, blistered, crackly crust
+over a light, airy crumb. The #5 came loaded with chunks of red-edged
+char-siu BBQ pork, while the #13 layered in tender slices of pork belly —
+each piled with the classic banh mi fixings of pickled carrot and daikon,
+cool cucumber, fresh cilantro, and jalapeño. At two full sandwiches for
+about $13 out the door, it's the kind of value that keeps a place like
+this packed.
 
 ---
 
