@@ -29,7 +29,9 @@ it's the kind of place worth ordering broadly and sharing.
 
 We spread it across the table: **chicken curry puffs** — golden, flaky,
 rope-crimped half-moon pastries served with a tangy cucumber-and-red-onion
-relish — **chicken satay**, a rich **massaman curry** — chicken, tender potato,
+relish — **chicken satay** — grilled, turmeric-marinated chicken skewers with a
+creamy peanut dipping sauce, cucumber relish, and toast points — a rich
+**massaman curry** — chicken, tender potato,
 and onion in a creamy peanut-brown coconut sauce under crispy fried
 shallots, with jasmine rice served on a banana leaf — and the
 showstopper, **khao mok gai tod**,
@@ -55,10 +57,10 @@ spice/flavor notes, and whether it lives up to the Michelin nod.
 Sacramento area to be recognized.
 
 **Ordered (Aug 6, 2026):**
-- Thai Iced Tea — $6.50
+- Thai Iced Tea — $6.50 *(pictured)*
 - Singha Draft (pint) — $9.00
 - Chicken Curry Puffs — $13.50 *(pictured)*
-- Satay Chicken — $7.50
+- Satay Chicken — $7.50 *(pictured)*
 - Massaman Curry — $21.50 *(pictured)*
 - **Khao Mok Gai Tod** (fried chicken biryani) — $25.00 *(pictured)*
 - **Sago Pudding** (pandan sago in coconut milk w/ ice cream) — $10.00 *(pictured)*
