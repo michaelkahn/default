@@ -27,8 +27,10 @@ restaurant in the area recognized by the Michelin Guide. The menu leans
 into regional Thai street food across a moody, dimly lit dining room, and
 it's the kind of place worth ordering broadly and sharing.
 
-We spread it across the table: **chicken curry puffs**, **chicken satay**,
-a rich **massaman curry**, and the showstopper — **khao mok gai tod**,
+We spread it across the table: **chicken curry puffs** — golden, flaky,
+rope-crimped half-moon pastries served with a tangy cucumber-and-red-onion
+relish — **chicken satay**, a rich **massaman curry**, and the
+showstopper, **khao mok gai tod**,
 Kin's take on Thai-Muslim chicken biryani, with golden fried chicken piled
 over fragrant turmeric-yellow rice, crispy fried shallots, and a bright
 green dipping sauce and cucumber relish on the side. To drink, a classic
@@ -53,7 +55,7 @@ Sacramento area to be recognized.
 **Ordered (Aug 6, 2026):**
 - Thai Iced Tea — $6.50
 - Singha Draft (pint) — $9.00
-- Chicken Curry Puffs — $13.50
+- Chicken Curry Puffs — $13.50 *(pictured)*
 - Satay Chicken — $7.50
 - Massaman Curry — $21.50
 - **Khao Mok Gai Tod** (fried chicken biryani) — $25.00 *(pictured)*
