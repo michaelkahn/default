@@ -2,55 +2,65 @@
 title: "Kin Thai Street Eatery"
 city: "Sacramento"
 neighborhood: "Midtown"
-address: "1050 20th St, Suite 180, Sacramento, CA 95816"
+address: "1050 20th St, Suite 180, Sacramento, CA 95811"
 phone: "(916) 619-8144"
 website: "https://www.kinthaieatery.com/"
 hours: "Mon–Fri 11am–3pm & 4:30–9pm · Sat 11am–9pm · Sun 12–9pm (closed 2nd Tuesday monthly)"
 category: "Restaurants"
 cuisine: "Thai"
-date_visited: "2026-08"
+date_visited: "2026-08-06"
 tags: ["thai", "midtown", "sacramento", "restaurant", "michelin"]
-status: "stub — awaiting your order & notes"
+status: "draft"
 ---
 
 # Kin Thai Street Eatery
 
-> **STUB — to finish after the visit.** Verified facts are locked in;
-> the prose entry has blanks for what you order and how it is.
+> **DRAFT.** Order and details locked in from the visit. Optional add is
+> your personal taste verdict on the dishes (see note at bottom).
 
 ## Kin Thai Street Eatery *(paste-ready entry — draft)*
 
 In the heart of Midtown, Kin Thai Street Eatery has become one of
 Sacramento's most celebrated Thai spots — the first and only Thai
 restaurant in the area recognized by the Michelin Guide. The menu leans
-into regional Thai street food, spanning specialties from pad Thai wrapped
-in a thin egg crepe to flaky curry puffs, clay-pot dishes, Isaan sausage,
-and Thai-tea desserts.
+into regional Thai street food across a moody, dimly lit dining room, and
+it's the kind of place worth ordering broadly and sharing.
 
-**[After the visit — fill in:]** what you ordered, standout dishes, spice
-level and flavors, the space/vibe, service, prices, wait, and whether it
-lives up to the Michelin nod.
+We spread it across the table: **chicken curry puffs**, **chicken satay**,
+a rich **massaman curry**, and the showstopper — **khao mok gai tod**,
+Kin's take on Thai-Muslim chicken biryani, with golden fried chicken piled
+over fragrant turmeric-yellow rice, crispy fried shallots, and a bright
+green dipping sauce and cucumber relish on the side. To drink, a classic
+**Thai iced tea** and a pint of **Singha** on draft. Dessert was **sago
+pudding** — green pandan pearls in sweet coconut milk crowned with a scoop
+of ice cream, cool and just-sweet-enough to close things out.
+
+**[Optional — add your verdict:]** which dishes were the standouts, the
+spice/flavor notes, and whether it lives up to the Michelin nod.
 
 ---
 
 ## Reference details
 
-**Where:** 1050 20th St, Suite 180, Sacramento, CA 95816 (Midtown)
+**Where:** 1050 20th St, Suite 180, Sacramento, CA 95811 (Midtown)
 **Phone:** (916) 619-8144 · **Web:** [kinthaieatery.com](https://www.kinthaieatery.com/)
 **Hours:** Mon–Fri 11am–3pm & 4:30–9pm · Sat 11am–9pm · Sun 12–9pm
 *(closed the 2nd Tuesday of each month)*
 **Recognition:** Michelin Guide–listed — first/only Thai restaurant in the
 Sacramento area to be recognized.
-**Menu notes (from research):** pad Thai in an egg crepe, potato curry
-puffs, clay-pot shrimp, Isaan sausage; desserts include mango sticky rice,
-roti with condensed milk, and Thai tea slushy with brown-sugar boba or
-grass jelly.
+
+**Ordered (Aug 6, 2026):**
+- Thai Iced Tea — $6.50
+- Singha Draft (pint) — $9.00
+- Chicken Curry Puffs — $13.50
+- Satay Chicken — $7.50
+- Massaman Curry — $21.50
+- **Khao Mok Gai Tod** (fried chicken biryani) — $25.00 *(pictured)*
+- **Sago Pudding** (pandan sago in coconut milk w/ ice cream) — $10.00 *(pictured)*
+- *Subtotal $93.00 · total $101.59 with tax*
 
 <!--
-TO CAPTURE ON THE VISIT (so I can finish the entry):
-- Exact dishes ordered + prices
-- Standouts and any misses; spice level
-- The space / vibe / service; dine-in vs. takeout; wait
-- A photo or two (dishes, the space)
-- Which article this goes in (new "Best Thai" / restaurants roundup?)
+OPTIONAL — add if you want to enrich:
+- Your taste verdict / standout dishes / spice notes
+- Confirm which article this goes in (Best Thai / restaurants roundup?)
 -->
