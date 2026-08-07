@@ -11,13 +11,12 @@ target_article: "Best Thai Restaurants in Sacramento"
 cuisine: "Thai"
 date_visited: "2026-08-06"
 tags: ["thai", "midtown", "sacramento", "restaurant", "michelin"]
-status: "draft"
+status: "ready"
 ---
 
 # Kin Thai Street Eatery
 
-> **DRAFT.** Order and details locked in from the visit. Optional add is
-> your personal taste verdict on the dishes (see note at bottom).
+> Complete and paste-ready.
 
 ## Kin Thai Street Eatery *(paste-ready entry — draft)*
 
@@ -45,8 +44,9 @@ milk — and a pint of **Singha** on draft. Dessert was **sago
 pudding** — green pandan pearls in sweet coconut milk crowned with a scoop
 of ice cream, cool and just-sweet-enough to close things out.
 
-**[Optional — add your verdict:]** which dishes were the standouts, the
-spice/flavor notes, and whether it lives up to the Michelin nod.
+The food was exceptional — full of unique, delicious flavors — and Kin is
+a great place to explore some of the lesser-known Thai dishes beyond the
+usual pad thai and curries. It more than lives up to the Michelin nod.
 
 ---
 
@@ -69,7 +69,3 @@ Sacramento area to be recognized.
 - **Sago Pudding** (pandan sago in coconut milk w/ ice cream) — $10.00 *(pictured)*
 - *Subtotal $93.00 · total $101.59 with tax*
 
-<!--
-OPTIONAL — add if you want to enrich:
-- Your taste verdict / standout dishes / spice notes
--->
